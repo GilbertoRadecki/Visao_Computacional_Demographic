@@ -1,8 +1,9 @@
 # Visao Computacional para coleta de dados demográficos.
 
 ## Descrição do projeto
-### Data de início do desenvolvimento: 04/11/2024
-### Data de conclusão do desenvolvimento: 18/12/2024
+
+Data de início do desenvolvimento: 04/11/2024
+Data de conclusão do desenvolvimento: 18/12/2024
 
 ![image](https://github.com/user-attachments/assets/d12b790e-33fa-47a8-8706-6a27ced3e646)
 
