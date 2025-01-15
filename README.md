@@ -3,6 +3,9 @@
 ## Descrição do projeto
 ### Data de início do desenvolvimento: 04/11/2024
 ### Data de conclusão do desenvolvimento: 18/12/2024
+
+![image](https://github.com/user-attachments/assets/d12b790e-33fa-47a8-8706-6a27ced3e646)
+
 O objetivo principal do projeto é classificar rostos humanos vistos da perspectiva frontal de acordo com o gênero, idade e humor.
 Para isso, 3 modelos distintos foram treinados para cada uma das tarefas de classificação (gênero, idade e humor).
 Dois conjuntos de dados foram utilizados, somando 49.772 imagens.
