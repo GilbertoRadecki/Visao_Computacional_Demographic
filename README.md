@@ -14,4 +14,3 @@ Ao final, obtivemos modelos 93,4% de acurácia na classificação de gênero, er
 
 <img src="/src/anger.png">
 <img src="/src/happy.png">
-<img src="/src/neutral.png">
